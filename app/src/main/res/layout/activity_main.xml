@@ -69,10 +69,11 @@
             android:id="@+id/textview_register"
             android:layout_width="wrap_content"
             android:layout_height="35dp"
+            android:onClick="@string/register"
             android:paddingLeft="10dp"
-            android:textStyle="bold"
+            android:text="@string/register"
             android:textColor="#04ea00"
-            android:text="@string/register"/>
+            android:textStyle="bold" />
 
     </LinearLayout>
 </LinearLayout>
